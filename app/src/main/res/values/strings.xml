@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Install Watchdog</string>
+    <string name="accessibility_description">Watches the Android package installer and taps Install/Update for apps on your allowlist (e.g. Kiosk Satellite). It does nothing else and never touches other screens.</string>
+</resources>
