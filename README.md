@@ -8,6 +8,11 @@ Works on stock Android and LineageOS, **Android 7.0 and newer**.
 
 The story behind it: https://rutg3r.com/installwatchdog-auto-install-android-updates-home-assistant/
 
+## Video walkthrough
+From installing the app on a tablet to a fully hands-free Kiosk Satellite update:
+
+[![InstallWatchdog video walkthrough](https://img.youtube.com/vi/eLvRy1gfRZA/hqdefault.jpg)](https://www.youtube.com/watch?v=eLvRy1gfRZA)
+
 > **Disclaimer.** Install Watchdog confirms app installs on your behalf. Use it only on devices you
 > manage yourself, and only allowlist apps you trust. It is provided as is, without warranty of any
 > kind (see [LICENSE](LICENSE)). It is not available on Google Play and is not affiliated with
